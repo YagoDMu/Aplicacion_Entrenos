@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ProyectoEntrenos/1.0.0": {
+        "runtime": {
+          "ProyectoEntrenos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProyectoEntrenos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

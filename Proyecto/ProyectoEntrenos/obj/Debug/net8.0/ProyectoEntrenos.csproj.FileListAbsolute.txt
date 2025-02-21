@@ -1,0 +1,14 @@
+C:\Users\yagod\Desktop\CURSO INFORMÁTICA\Fundamentos de programación\Actividad Evaluable 2\Proyecto\ProyectoEntrenos\obj\Debug\net8.0\ProyectoEntrenos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yagod\Desktop\CURSO INFORMÁTICA\Fundamentos de programación\Actividad Evaluable 2\Proyecto\ProyectoEntrenos\obj\Debug\net8.0\ProyectoEntrenos.AssemblyInfoInputs.cache
+C:\Users\yagod\Desktop\CURSO INFORMÁTICA\Fundamentos de programación\Actividad Evaluable 2\Proyecto\ProyectoEntrenos\obj\Debug\net8.0\ProyectoEntrenos.AssemblyInfo.cs
+C:\Users\yagod\Desktop\CURSO INFORMÁTICA\Fundamentos de programación\Actividad Evaluable 2\Proyecto\ProyectoEntrenos\obj\Debug\net8.0\ProyectoEntrenos.csproj.CoreCompileInputs.cache
+C:\Users\yagod\Desktop\CURSO INFORMÁTICA\Fundamentos de programación\Actividad Evaluable 2\Proyecto\ProyectoEntrenos\bin\Debug\net8.0\ProyectoEntrenos.exe
+C:\Users\yagod\Desktop\CURSO INFORMÁTICA\Fundamentos de programación\Actividad Evaluable 2\Proyecto\ProyectoEntrenos\bin\Debug\net8.0\ProyectoEntrenos.deps.json
+C:\Users\yagod\Desktop\CURSO INFORMÁTICA\Fundamentos de programación\Actividad Evaluable 2\Proyecto\ProyectoEntrenos\bin\Debug\net8.0\ProyectoEntrenos.runtimeconfig.json
+C:\Users\yagod\Desktop\CURSO INFORMÁTICA\Fundamentos de programación\Actividad Evaluable 2\Proyecto\ProyectoEntrenos\bin\Debug\net8.0\ProyectoEntrenos.dll
+C:\Users\yagod\Desktop\CURSO INFORMÁTICA\Fundamentos de programación\Actividad Evaluable 2\Proyecto\ProyectoEntrenos\bin\Debug\net8.0\ProyectoEntrenos.pdb
+C:\Users\yagod\Desktop\CURSO INFORMÁTICA\Fundamentos de programación\Actividad Evaluable 2\Proyecto\ProyectoEntrenos\obj\Debug\net8.0\ProyectoEntrenos.dll
+C:\Users\yagod\Desktop\CURSO INFORMÁTICA\Fundamentos de programación\Actividad Evaluable 2\Proyecto\ProyectoEntrenos\obj\Debug\net8.0\refint\ProyectoEntrenos.dll
+C:\Users\yagod\Desktop\CURSO INFORMÁTICA\Fundamentos de programación\Actividad Evaluable 2\Proyecto\ProyectoEntrenos\obj\Debug\net8.0\ProyectoEntrenos.pdb
+C:\Users\yagod\Desktop\CURSO INFORMÁTICA\Fundamentos de programación\Actividad Evaluable 2\Proyecto\ProyectoEntrenos\obj\Debug\net8.0\ProyectoEntrenos.genruntimeconfig.cache
+C:\Users\yagod\Desktop\CURSO INFORMÁTICA\Fundamentos de programación\Actividad Evaluable 2\Proyecto\ProyectoEntrenos\obj\Debug\net8.0\ref\ProyectoEntrenos.dll
